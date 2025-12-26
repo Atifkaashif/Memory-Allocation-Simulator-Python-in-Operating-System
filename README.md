@@ -1,4 +1,4 @@
-<h4>Memory Allocation Simulator (Python – GUI)</h4>h4>
+<h4>Memory Allocation Simulator (Python – GUI)</h4>
 
 A **Memory Allocation Simulator** built using **Python (Tkinter GUI)** that demonstrates how memory management works in an **Operating System** using classic allocation strategies.
 
